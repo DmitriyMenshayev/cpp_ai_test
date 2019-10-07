@@ -1,0 +1,3 @@
+/home/dmitriy/Documents/ai_test_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/dmitriy/Documents/ai_test_cpp/build/CMakeFiles/ai_test_cpp.dir
+/home/dmitriy/Documents/ai_test_cpp/build/CMakeFiles/edit_cache.dir
