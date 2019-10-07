@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/ai_test_cpp.dir/main.cpp.o  -o ai_test_cpp 
